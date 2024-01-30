@@ -1,2 +1,6 @@
 # historical games
- Eu faço parte de um coletivo de designers de jogos chamado Máquina Tudo. Em outubro e novembro de 2023 nós circulamos com outros grupos de artistas por 12 cidades em um festival itinerante chamado Circuito Sesc de Artes. Deste evento nasceu um projeto decriar uma enciclopédia de jogos históricos do mundo todo.  Neste repositório está uma das ferramentas de pesquisa feitas para auxiliar no processo de pesquisa dos jogos que estão sendo selecionados para a publicação. Ele usa uma large language model (LLM), LangChain e dados da Wikipedia para criar um projeto de Retrieval-Augmented Generation (RAG).
+
+I'm part of a collective of game designers called [Máquina Tudo](https://maquinatudo.com.br/). In October and November 2023 we traveled with other groups of artists to 12 cities in an itinerant festival called [Circuito Sesc de Artes](https://circuito.sescsp.org.br/cidades/). This event gave rise to a project to create an encyclopedia of historical games from around the world.
+
+
+In this repository is one of the research tools designed to assist in the research process of the games that are being selected for publication. It uses a large language model (LLM), LangChain, and data from Wikipedia to create a Retrieval-Augmented Generation (RAG) project.
